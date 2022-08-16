@@ -317,13 +317,6 @@ canvas:not(#ribbon-canvas),
   -ms-animation: scroll-down-effect 1.5s infinite;
   animation: scroll-down-effect 1.5s infinite;
 }
-.avatar-img {
-  -webkit-animation: avatar_turn_around 2s linear infinite;
-  -moz-animation: avatar_turn_around 2s linear infinite;
-  -o-animation: avatar_turn_around 2s linear infinite;
-  -ms-animation: avatar_turn_around 2s linear infinite;
-  animation: avatar_turn_around 2s linear infinite;
-}
 .reward-main {
   -webkit-animation: donate_effcet 0.3s 0.1s ease both;
   -moz-animation: donate_effcet 0.3s 0.1s ease both;
@@ -1365,6 +1358,19 @@ body {
 }
 input::placeholder {
   color: var(--font-color);
+}
+#web_bg {
+  position: fixed;
+  z-index: -999;
+  width: 100%;
+  height: 100%;
+  background: url(https://get.wallhere.com/photo/water-sky-water-resources-mountain-nature-Natural-landscape-azure-beach-coastal-and-oceanic-landforms-tree-lake-Terrain-Bank-landscape-morning-horizon-headland-mountain-range-shore-hill-sand-geology-leisure-plateau-wilderness-valley-reservoir-cape-rock-tropics-peninsula-travel-ocean-palm-tree-sound-coast-Caribbean-Tourism-cove-Massif-wind-wave-island-wave-ridge-bay-vacation-klippe-inlet-tarn-batholith-Lake-District-promontory-wadi-shoal-city-sea-bight-lagoon-1992285.jpg);
+  background-attachment: local;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 h1,
 h2,
@@ -2853,6 +2859,11 @@ blockquote footer cite:before {
   -webkit-box-shadow: var(--card-hover-box-shadow);
   box-shadow: var(--card-hover-box-shadow);
 }
+@media screen and (max-width: 768px) {
+  #aside-content .card-widget:not(#card-toc) {
+    display: none;
+  }
+}
 #aside-content .card-info .author-info__name {
   font-weight: 500;
   font-size: 1.57em;
@@ -3525,7 +3536,6 @@ blockquote footer cite:before {
 }
 #footer {
   position: relative;
-  background: #49b1f5;
   background-attachment: local;
   background-position: bottom;
   -webkit-background-size: cover;
@@ -5160,7 +5170,6 @@ blockquote footer cite:before {
 #sidebar #sidebar-menus .menus_items .menus_item_child {
   margin: 0;
   list-style: none;
-  display: none;
 }
 #vcomment {
   font-size: 1.1em;
