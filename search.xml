@@ -4,17 +4,17 @@
   
     
     <entry>
-      <title>我的世界优质PVP材质包</title>
-      <link href="/blog/resourcepacks/"/>
-      <url>/blog/resourcepacks/</url>
+      <title>给butterfly扩展图标(iconfont)</title>
+      <link href="/blog/iconfont/"/>
+      <url>/blog/iconfont/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><font color="Crimson"><u>以下材质包均为1.12.2以下的材质</u></font></blockquote><h1 id="正常材质"><a href="#正常材质" class="headerlink" title="正常材质"></a>正常材质</h1><h2 id="Sponkys-10k-Pack"><a href="#Sponkys-10k-Pack" class="headerlink" title="Sponkys 10k Pack"></a>Sponkys 10k Pack</h2><p>效果展示<br><img src="s1.png" alt=""><br><img src="s2.png" alt=""><br><img src="s3.png" alt=""><br><img src="s4.png" alt=""></p><h2 id="VAPE"><a href="#VAPE" class="headerlink" title="VAPE"></a>VAPE</h2><p>效果展示<br><img src="v1.png" alt=""><br><img src="v2.png" alt=""><br><img src="v3.png" alt=""></p><h2 id="SHY-GUY-BABY-BLUE"><a href="#SHY-GUY-BABY-BLUE" class="headerlink" title="SHY GUY BABY BLUE"></a>SHY GUY BABY BLUE</h2><p>效果展示<br><img src="sh1.png" alt=""><br><img src="sh2.png" alt=""><br><img src="sh3.png" alt=""><br><img src="sh4.png" alt=""></p><h1 id="LSP"><a href="#LSP" class="headerlink" title="LSP"></a>LSP</h1><h2 id="奇奇怪怪的材质包"><a href="#奇奇怪怪的材质包" class="headerlink" title="奇奇怪怪的材质包"></a>奇奇怪怪的材质包</h2><p>露出在羊毛和天空</p><h2 id="二次元材质包"><a href="#二次元材质包" class="headerlink" title="二次元材质包"></a>二次元材质包</h2><p>无露出 声音可以<br>总下载连接,密码码:436 <a class="btn-beautify button--animated " href="https://wwp.lanzouw.com/b03j7lt6b"   title="点这"><i class="fas fa-download"></i><span>点这</span></a><br><div class="bili_video"><iframe src="https://player.bilibili.com/player.html?aid=NaN&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" width="544" height="452" allowfullscreen="true"> </iframe></div></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="图标"><a href="#图标" class="headerlink" title="图标"></a>图标</h1><p>Butterfly主题内置了Font Awesome V5 图标，目前已更新到 4.7.0，总共有1,588个免费图标。由于是国外的图标网站，对于国内的一些网站Icon并不支持。如有需要，则需要引入其它的图标服务商。<br></p><h1 id="iconfont"><a href="#iconfont" class="headerlink" title="iconfont"></a>iconfont</h1><p>国内最出名的莫过于iconfont,功能很强大且图标内容很丰富的矢量图标库。很多Font Awesome不支持的图标都可以在这里找到。同时，iconfont支持选择需要的图标生成css链接，减少不必要的CSS加载。</p><h1 id="如何引用iconfont内的图标？"><a href="#如何引用iconfont内的图标？" class="headerlink" title="如何引用iconfont内的图标？"></a>如何引用iconfont内的图标？</h1><h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><p>打开<a href="https://www.iconfont.cn/">iconfont</a>网站，登陆账号没有去注册一个。</p><h2 id="添加图标入库"><a href="#添加图标入库" class="headerlink" title="添加图标入库"></a>添加图标入库</h2><p>将指针放在想要的图标上点击<font color="red">购物车</font>加入库中。<br><img src="1.png" alt=""><br>添加之后会看见又上角购物车有<font color="red">小红标”n”</font>即为添加成功。<br><img src="2.png" alt=""><br>点击右上角购物车会弹出侧边栏会看见刚刚添加的图标，只需要点击下方<font color="red">添加至项目</font>即可，没有项目则点击<font color="red">加入项目</font>的文件夹添加一个项目。<br><img src="3.png" alt=""></p><h2 id="生成css链接"><a href="#生成css链接" class="headerlink" title="生成css链接"></a>生成css链接</h2><p>当你完成以上步骤之后会跳转到详情页你只需要点击<font color="#62CDFF">Font class</font>，点击<font color="#6480FF">暂无代码点此生成</font>，在弹窗处点确定即可。<br><img src="4.png" alt=""></p><h2 id="将链接添加至配置文件"><a href="#将链接添加至配置文件" class="headerlink" title="将链接添加至配置文件"></a>将链接添加至配置文件</h2><p>将生成的css链接复制，来到butterfly本地文件的<code>_config.butterfly.yml</code>找到<code>inject</code>部分按照格式将刚刚复制的css链接填入。<br><img src="5.png" alt=""><br><img src="6.png" alt=""><br>我们可以在需要的地方填入icon，列如:<code>menu</code>，图标的使用格式为<code>iconfont icon-图标名字</code><br><img src="7.png" alt=""></p><h1 id="效果"><a href="#效果" class="headerlink" title="效果"></a>效果</h1><p><img src="8.png" alt=""></p><p><a href="https://butterfly.js.org/posts/4073eda/#Icon/">原帖</a></p>]]></content>
       
       
       
         <tags>
             
-            <tag> 我的世界 </tag>
+            <tag> butterfly </tag>
             
         </tags>
       
@@ -23,17 +23,17 @@
     
     
     <entry>
-      <title>给butterfly扩展图标(iconfont)</title>
-      <link href="/blog/iconfont/"/>
-      <url>/blog/iconfont/</url>
+      <title>我的世界优质PVP材质包</title>
+      <link href="/blog/resourcepacks/"/>
+      <url>/blog/resourcepacks/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>移步:<a href="https://butterfly.js.org/posts/4073eda/#Icon">https://butterfly.js.org/posts/4073eda/#Icon</a></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote><font size="5" color="Crimson"><u>以下材质包均为1.12.2以下的材质</u></font></blockquote><h1 id="正常材质"><a href="#正常材质" class="headerlink" title="正常材质"></a>正常材质</h1><h2 id="Sponkys-10k-Pack"><a href="#Sponkys-10k-Pack" class="headerlink" title="Sponkys 10k Pack"></a>Sponkys 10k Pack</h2><p>效果展示<br><img src="s1.png" alt=""><br><img src="s2.png" alt=""><br><img src="s3.png" alt=""><br><img src="s4.png" alt=""></p><h2 id="VAPE"><a href="#VAPE" class="headerlink" title="VAPE"></a>VAPE</h2><p>效果展示<br><img src="v1.png" alt=""><br><img src="v2.png" alt=""><br><img src="v3.png" alt=""></p><h2 id="SHY-GUY-BABY-BLUE"><a href="#SHY-GUY-BABY-BLUE" class="headerlink" title="SHY GUY BABY BLUE"></a>SHY GUY BABY BLUE</h2><p>效果展示<br><img src="sh1.png" alt=""><br><img src="sh2.png" alt=""><br><img src="sh3.png" alt=""><br><img src="sh4.png" alt=""></p><hr><h1 id="LSP材质"><a href="#LSP材质" class="headerlink" title="LSP材质"></a>LSP材质</h1><h2 id="奇奇怪怪的材质包"><a href="#奇奇怪怪的材质包" class="headerlink" title="奇奇怪怪的材质包"></a>奇奇怪怪的材质包</h2><p>羊毛天空</p><h2 id="二次元材质包"><a href="#二次元材质包" class="headerlink" title="二次元材质包"></a>二次元材质包</h2><p>声音</p><hr><h1 id="下载链接"><a href="#下载链接" class="headerlink" title="下载链接"></a>下载链接</h1><p>总下载连接,密码码:436 <a class="btn-beautify button--animated " href="https://wwp.lanzouw.com/b03j7lt6b"   title="点这"><i class="fas fa-download"></i><span>点这</span></a><br><div class="bili_video"><iframe src="https://player.bilibili.com/player.html?aid=NaN&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" width="544" height="452" allowfullscreen="true"> </iframe></div></p>]]></content>
       
       
       
         <tags>
             
-            <tag> butterfly </tag>
+            <tag> 我的世界 </tag>
             
         </tags>
       
