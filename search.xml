@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>如何win+r运行任意软件</title>
+      <link href="/blog/configureenvironment/"/>
+      <url>/blog/configureenvironment/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="如何win-r运行自己想要的软件"><a href="#如何win-r运行自己想要的软件" class="headerlink" title="如何win+r运行自己想要的软件"></a>如何win+r运行自己想要的软件</h1><p>只需两步！！！</p><h2 id="1-打开环境变量"><a href="#1-打开环境变量" class="headerlink" title="1.打开环境变量"></a>1.打开环境变量</h2><pre><code>在环境变量中找到系统变量中的path双击编辑</code></pre><p><img src="https://s1.ax1x.com/2023/01/22/pSJ10fO.png" alt=""></p><h2 id="2-编辑环境变量"><a href="#2-编辑环境变量" class="headerlink" title="2.编辑环境变量"></a>2.编辑环境变量</h2><pre><code>在编辑环境变量窗口选择新建填上一个目录，在目录内放想要打开的软件快捷方式改个好记的名字即可win+r运行</code></pre><p><a href="https://imgse.com/i/pSJ1r1e"><img src="https://s1.ax1x.com/2023/01/22/pSJ1r1e.md.png" alt=""></a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> butterfly </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>更新日志-添加一个天气组件</title>
       <link href="/blog/weathercomponents/"/>
       <url>/blog/weathercomponents/</url>
