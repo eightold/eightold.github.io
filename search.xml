@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>Ultimate Vocal Remover v5一款强大开源且免费的人声分离软件</title>
+      <link href="/blog/Ultimate%20Vocal%20Remover%20v5/"/>
+      <url>/blog/Ultimate%20Vocal%20Remover%20v5/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p>可以去<a href="https://ultimatevocalremover.com/">官网</a>下载<br>也可以去<a href="https://pan.baidu.com/s/1lne-_EiTYZyd2qeq_qRfag?pwd=p6d5#list/path=%2F&amp;parentPath=%2F">百度网盘</a>下载</p><h1 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h1><p>下载安装后打开软件<br>在<font color="red">select input</font>框中设置想要分离人声的音频<br>在<font color="red">select output</font>&gt;框中设置分离后存放的位置<br><img src="https://s1.ax1x.com/2023/02/04/pSyMtLq.png" alt=""></p><p>可以在第三行选择分离后的音频文件格式<br><img src="https://s1.ax1x.com/2023/02/04/pSyM2ex.png" alt=""></p><p>第四行保持默认即可<br>在第五行的<font color="red">CHOOSE MDX-NET MODEL</font>中选择<font color="red">UVR-MDX-NET INST MAIN</font><br><img src="https://s1.ax1x.com/2023/02/04/pSyDrsx.png" alt=""></p><p>中间的选项看情况选择下面是翻译<br><img src="https://s1.ax1x.com/2023/02/04/pSyDNoF.png" alt=""><br>选好后点击<font color="red">Start Prosessing</font><br><img src="https://s1.ax1x.com/2023/02/04/pSyD0zR.png" alt=""><br>等到<font color="red">Process Complete</font>出现即成功</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>如何win+r运行任意软件</title>
       <link href="/blog/configureenvironment/"/>
       <url>/blog/configureenvironment/</url>
@@ -14,7 +33,7 @@
       
         <tags>
             
-            <tag> butterfly </tag>
+            <tag> 系统 </tag>
             
         </tags>
       
